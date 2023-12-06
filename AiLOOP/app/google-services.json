@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1037593856963",
+    "project_id": "decma-96d45",
+    "storage_bucket": "decma-96d45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037593856963:android:146461b5cac93647cc0b76",
+        "android_client_info": {
+          "package_name": "com.anjaslp.ailoop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnE9QvgX2aO_3Lh-G2DgkcSZpj9u0WqU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

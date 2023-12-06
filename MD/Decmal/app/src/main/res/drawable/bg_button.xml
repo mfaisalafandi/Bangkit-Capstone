@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- res/drawable/button_border.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@android:color/transparent" /> <!-- Background color, set to transparent or the desired color -->
+    <corners android:radius="8dp" /> <!-- Radius of the corners, adjust as needed -->
+    <stroke
+        android:width="2dp"
+    android:color="@color/blue" /> <!-- Border color, adjust as needed -->
+    <size
+        android:width="120dp"
+    android:height="40dp" /> <!-- Adjust the height as needed -->
+</shape>
+

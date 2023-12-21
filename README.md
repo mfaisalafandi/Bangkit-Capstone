@@ -4,6 +4,24 @@
 
 DECMA is an application android that can help  detect malaria, providing significant benefits to the community, especially in areas where malaria remains a major health concern. By knowing this information, users can take further preventive measures.
 
+## Stacks
+
+- Python
+- TensorFlow
+- Kotlin
+- Android Studio
+- App Engine (Google Cloud Platform)
+- Google Cloud Storage (Google Cloud Platform)
+- Node.js
+- Express
+- MongoDB
+
+## Features
+
+- [x] Login
+- [x] Register
+- [x] Image Classification for Detecting Malaria
+
 ## Team Member
 
 The following are the team members involved in the development of this project:
@@ -17,30 +35,3 @@ The following are the team members involved in the development of this project:
 | Ni Wayan Sani Utari Dewi                | C014BSX4041 | Cloud Computing    | [LinkedIn](https://www.linkedin.com/in//)                                                                       |
 | Anjas Lasuci Prastia                    | A193BSY2901 | Mobile Development | [LinkedIn](https://www.linkedin.com/in//)                                                                          |
 | Sayyid Yaasiin Almahdi                  | A227BSY2970 | Mobile Development | [LinkedIn](https://www.linkedin.com/in//)                                                           |
-
-## Stacks
-
-- Python
-- Kotlin
-- Flask Framework
-- Tensorflow
-- App Engine (Google Cloud Platform)
-- Google Cloud Storage (Google Cloud Platform)
-- Cloud run docker
-- Gradle
-- Retrofit
-- MySql
-
-## Features
-
-- [x] Login
-- [x] Register
-- [x] Pronunciation quiz
-- [x] Spelling quiz
-- [x] Learning Content
-- [x] Next level in quiz locked if previous level not completed yet
-- [x] Help and hint feature
-
-## Apk File Download
-
-TBA

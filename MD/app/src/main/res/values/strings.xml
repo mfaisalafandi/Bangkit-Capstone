@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Decma</string>
+    <string name="login">Login</string>
+    <string name="welcome_to_ailoop">>Welcome To DecMa App</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="malaria_adalah">Malaria adalah penyakit infeksi menular yang menyebar melalui gigitan nyamuk.
+        Penderita malaria akan mengeluhkan gejala demam dan menggigil beberapa hari
+        setelah terinfeksi parasit yang dibawa oleh nyamuk.</string>
+    <string name="penyebab_dan_gejala_malaria">Penyebab dan Gejala Malaria</string>
+    <string name="malaria">Apakah kamu tau apa itu malaria ?</string>
+    <string name="penyebab_malaria">Manusia dapat terkena malaria setelah digigit nyamuk pembawa parasit Plasmodium.
+        Gigitan nyamuk tersebut akan menyebabkan parasit masuk ke dalam tubuh manusia, kemudian menetap di organ hati
+        sebelum menyerang sel darah merah. \n\nGejala malaria timbul setidaknya 10-15 hari setelah digigit nyamuk. Gejala
+        muncul dalam tiga tahap selama 6–12 jam, yaitu menggigil, demam dan sakit kepala, lalu keluar banyak keringat
+        dan lemas sebelum suhu tubuh kembali normal.</string>
+    <string name="home">Home</string>
+    <string name="name">Name</string>
+    <string name="logo">Logo Aplikasi</string>
+    <string name="hi_name">Hi, {name}</string>
+</resources>

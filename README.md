@@ -33,4 +33,9 @@ The following are the team members involved in the development of this project:
 | I Kadek Widiarthawan                    | C014BSY4039 | Cloud Computing    | [LinkedIn](https://www.linkedin.com/in/i-kadek-widiarthawan-822bb3280/)                                                            |
 | Ni Wayan Sani Utari Dewi                | C014BSX4041 | Cloud Computing    | [LinkedIn](https://www.linkedin.com/in//)                                                                       |
 | Anjas Lasuci Prastia                    | A193BSY2901 | Mobile Development | [LinkedIn](https://www.linkedin.com/in/anjas-lasuci-prastia-a762a8240/)                                                                          |
-| Sayyid Yaasiin Almahdi                  | A227BSY2970 | Mobile Development | [LinkedIn](https://www.linkedin.com/in//)                                                           |
+| Sayyid Yaasiin Almahdi                  | A227BSY2970 | Mobile Development | [LinkedIn](https://www.linkedin.com/in/sayyid-yaasiin-almahdi-41ba48220/)                                                           |
+
+## Apps
+
+![alt text](https://github.com/mfaisalafandi/Bangkit-Capstone/blob/main/public/SS%20APP%201.png?raw=true)
+![alt text](https://github.com/mfaisalafandi/Bangkit-Capstone/blob/main/public/SS%20APP%202.png?raw=true)
